@@ -1,5 +1,5 @@
 {
-  "name": "googlethis",
+  "name": "@crosp/googlethis",
   "version": "1.8.0",
   "description": "A simple yet powerful module to retrieve organic search results and much more from Google.",
   "main": "lib/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuanRT/google-this.git"
+    "url": "git+https://github.com/CROSP/google-this.git"
   },
   "keywords": [
     "search",
